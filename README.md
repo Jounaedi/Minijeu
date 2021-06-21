@@ -46,11 +46,4 @@ Une calculatrice (Réalisé par Jamais Stanley)
 Comment jouer ?
 
 Rendez-vous simplement sur http://ritogammess.eu/ et vous pourrez acceder au projet.
-Nous contacter:
-	Mail 	LinkedIn 	GitHub 	Portfolio
-Azevedo Da Silva Antoine 	HERE 	HERE 	HERE 	HERE
-Verger Eva 	HERE 	HERE 	HERE 	
-Jamais Stanley 	HERE 	HERE 	HERE 	
-Roucourt Olivier 	HERE 	HERE 	HERE 	
-Abdoelsomad Jérémy 	HERE 	HERE 	HERE 	
-Fallard Yanis 	HERE 	HERE 	HERE 	
+
